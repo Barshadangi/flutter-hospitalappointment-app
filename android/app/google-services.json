@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217888280752",
+    "project_id": "sewabook-2acb2",
+    "storage_bucket": "sewabook-2acb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217888280752:android:134888c82b8cf7ecabab75",
+        "android_client_info": {
+          "package_name": "com.example.sewabook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOvrzAowzKhSSt4asJqpjJBhtaJKD4_O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
