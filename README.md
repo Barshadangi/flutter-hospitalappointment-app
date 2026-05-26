@@ -1,6 +1,6 @@
 # SewaBook – Hospital Appointment System
 
-SewaBook is a Flutter-based mobile application developed to simplify hospital appointment booking and management. The application allows patients to easily schedule appointments with doctors based on their medical needs or preferred specialty, helping reduce waiting time and improve healthcare accessibility.
+SewaBook is a Flutter-based mobile application developed to simplify hospital appointment booking and management. The application allows patients to easily schedule appointments with doctors based on their availability across different clinics and hospitals.
 
 ---
 
@@ -20,6 +20,7 @@ SewaBook is a Flutter-based mobile application developed to simplify hospital ap
 - Flutter
 - Dart
 - Material Design
+- Firebase (Authentication & Firestore)
 - Git & GitHub
 
 ---
@@ -110,7 +111,7 @@ Example:
 
 ##  About the Project
 
-This project was developed as part of learning Flutter mobile application development and improving practical knowledge in UI design, mobile application structure, and real-world healthcare management systems.
+This project was developed as part of learning Flutter mobile application development and improving practical knowledge in UI design, mobile application structure, and real-world healthcare management systems. It demonstrates core Flutter concepts including state management, API integration, and building responsive user interfaces for medical applications.
 
 ---
 
@@ -137,4 +138,4 @@ GitHub: https://github.com/Barshadangi
 
 ##  Support
 
-If you like this project, give it a  on GitHub.
+If you like this project, give it a ⭐ on GitHub.
